@@ -1,0 +1,24 @@
+{
+  "name": "fss",
+  "version": "1.0.0",
+  "description": "Fast Style Scripts via JS",
+  "main": "fss.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/terremoth/fss.git"
+  },
+  "keywords": [
+    "style",
+    "fast",
+    "css"
+  ],
+  "author": "Lucas Marques Dutra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/terremoth/fss/issues"
+  },
+  "homepage": "https://github.com/terremoth/fss#readme"
+}
